@@ -15,7 +15,7 @@
    height="744.09448"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="TitlePageSablona.svg">
+   sodipodi:docname="title.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,8 +30,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="0.82243425"
-     inkscape:cx="491.82306"
-     inkscape:cy="245.21642"
+     inkscape:cx="486.95945"
+     inkscape:cy="342.48864"
      inkscape:window-x="57"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -288,7 +288,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
